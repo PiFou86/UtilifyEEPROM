@@ -22,7 +22,8 @@ Add **EEPROMDataStorage** to your PlatformIO project by adding the following to 
 platform = espressif32
 framework = arduino
 lib_deps =
-    https://github.com/PiFou86/EEPROMDataStorage.git
+    https://github.com/PiFou86/Utilify
+    https://github.com/PiFou86/UtilifyEEPROM
 ```
 
 ### Basic Usage
