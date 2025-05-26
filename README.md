@@ -24,6 +24,7 @@ framework = arduino
 lib_deps =
     https://github.com/PiFou86/Utilify
     https://github.com/PiFou86/UtilifyEEPROM
+    robtillaart/CRC@^1.0.2
 ```
 
 ### Basic Usage
