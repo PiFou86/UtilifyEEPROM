@@ -211,10 +211,11 @@ c = Chocolatine!
 
 - **Arduino Core** (for `Serial` and `EEPROM`)
 - **CRC16 Library** (for checksum calculation)
-- **Utilify**: [https://github.com/PiFou86/Utilify.git]( https://github.com/PiFou86/Utilify.git)
+- **Utilify**: [https://github.com/PiFou86/Utilify.git](https://github.com/PiFou86/Utilify.git)
 
 ## Author
 
-**Pierre-François Léon**  
-🔗 [LinkedIn](https://www.linkedin.com/in/pierrefrancoisleon/)  
-🔗 [GitHub Profile](https://github.com/PiFou86)
+**Pierre-François Léon**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/pierrefrancoisleon/)
+[![GitHub profile](https://img.shields.io/badge/GitHub-Profile-blue?logo=github&style=for-the-badge)](https://github.com/PiFou86)
