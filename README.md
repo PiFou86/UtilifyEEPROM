@@ -3,6 +3,8 @@
 **EEPROMDataStorage** is a lightweight and reliable EEPROM data management library designed for embedded systems, including ESP32 and Arduino Uno.  
 It simplifies saving and loading structured data with automatic CRC validation to ensure data integrity.
 
+[![PlatformIO Registry](https://badges.registry.platformio.org/packages/sirdrako/library/UtilifyEEPROM.svg)](https://registry.platformio.org/libraries/sirdrako/UtilifyEEPROM)
+
 ## Features
 
 - **Automatic CRC Checking**: Verifies the integrity of stored data.
