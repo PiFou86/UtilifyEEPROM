@@ -1,6 +1,6 @@
 {
     "name": "UtilifyEEPROM",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "UtilifyEEPROM is a library that provides an easy way to manage EEPROM data in Arduino projects. It simplifies the process of reading and writing data to EEPROM, making it more efficient and user-friendly.",
     "keywords": ["EEPROM", "utilities", "embedded", "platformio", "arduino", "esp32"],
     "authors": [
