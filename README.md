@@ -20,12 +20,9 @@ It simplifies saving and loading structured data with automatic CRC validation t
 Add **EEPROMDataStorage** to your PlatformIO project by adding the following to your `platformio.ini` file:
 
 ```ini
-[env:esp32dev]
-platform = espressif32
-framework = arduino
 lib_deps =
-    https://github.com/PiFou86/Utilify
-    https://github.com/PiFou86/UtilifyEEPROM
+    sirdrako/Utilify
+    sirdrako/UtilifyEEPROM
     robtillaart/CRC@^1.0.2
 ```
 
